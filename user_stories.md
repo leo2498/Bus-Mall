@@ -1,5 +1,17 @@
-As the marketing team we would like an app that is providing us with customer based information to better target our consumers with thier prefered products from our catalog. 
+```# User Stories (MVP)
 
-As a developer i would like to provide the marketing team with an app that accurately provides information that shows them what is prefered in thier catalog to better target their consumers.
-
-As a user I would want an easy to use & understand app that shows me the set of images that allows me to choose my prefered item with out repetative images. .
+## Marketing Team
+As a marketing researcher i would like accurate information on our consumers.
+As a marketing researcher i want to be able to see what is our most preferable products.
+As a marketing researcher i would like to see what our targeted consumer base is most interested in. 
+As a markerting researcher i want to be able to easily read our information based on what our consumers are choosing as top choice products.
+## Developer
+As a developer i would like to have 3 images on display for the catalog.
+As a developer i want the three images to randomize with out repetition.
+As a developer i would like to track our targeted consumers choices on our catalog.
+As a developer i would like to gather all of the consumer based information and put it on an easy to understand chart.
+## Focus group participant
+As a group participant I want an easy to understand catalog.
+As a group participant I want a catalog with many choices.
+As a group participant I want a catalog that wont repeat itself.
+As a group participant I want a want to be able to clearly see. images side by side as they change.
