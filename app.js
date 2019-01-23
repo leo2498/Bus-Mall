@@ -47,7 +47,6 @@ BusMall.renderImages = function() {
 
   BusMall.displayed.unshift(randomIndex); 
 
- //var oneBusmall = BusMall.allBusMall[randomIndex];
 };
 
 BusMall.sectionEl.addEventListener('click', BusMall.handleClick);
