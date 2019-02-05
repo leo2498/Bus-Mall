@@ -24,7 +24,7 @@ function Product(name, filepath, altText) {
   Product.allProducts.push(this);
 }
 
-new Product('Luggage', 'img/bag.jpg','Bag');
+new Product('Luggage', 'C:/Users/leotr/Code-Fellows/201/bus-mall/Bus-Mall/img/bag.jpg','Bag');
 new Product('Banana Slicer', 'img/banana.jpg','Banana Slicer');
 new Product('Bathroom Buddy', 'img/bathroom.jpg','Bathroom');
 new Product('Fashion Wellies', 'img/boots.jpg','Boots');
@@ -185,3 +185,6 @@ function drawChart() {
     }
   });
 }
+Product.section.addEventListener('click', newSet);
+
+function randomProduct();
